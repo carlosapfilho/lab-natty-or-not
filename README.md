@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# FinancIAs Podcast
 
 ## 📒 Descrição
 Postcast educativo sobre finanças comportamentais, planejamento financeiro, tomada de decissãom, entre outros conteúdos, a partir de apresentações criadas previamente.
